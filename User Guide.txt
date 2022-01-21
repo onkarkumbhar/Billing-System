@@ -1,0 +1,21 @@
+##            Billing system
+## Created By:- Onkar Kumbhar
+
+Commands to run:-
+    g++ main.c++
+    ./a.out        =>for linux
+    a.exe          =>for windows(Not tested)
+
+Commands to use:-
+    init                Initialize items present
+    add_item            Item will get added
+    show_items          All items will be displayed
+    remove_item         Item will be removed
+    update_item         Item cost will be updated
+    create_bill         Bill will be created to user
+    exit                Program will stop running
+
+Rules to use:-
+    1) DO NOT USE SPACE SEPARATED NAMES,COMMANDS
+    2) At first start Recommanded to run init command
+    
